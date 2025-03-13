@@ -1,3 +1,4 @@
+#A* và BFS ,nếu A* không tìm được đường đi tối ưu thì BFS sẽ giữ cho rắn có ô trống để đi mà k bị end game.
 import pygame
 import random
 import heapq

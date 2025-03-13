@@ -1,3 +1,4 @@
+#A* cải tiến hơn snake2 tránh thân rắn và tránh luôn vật cản,kết thúc game khi k tìm thấy đuường đi.
 import pygame
 import random
 import heapq

@@ -1,4 +1,4 @@
-# A* 
+# A* không vật cản 
 import pygame
 import random
 import heapq

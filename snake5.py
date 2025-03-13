@@ -1,3 +1,4 @@
+# A* và vật cản không cố định.
 import pygame
 import random
 import heapq
